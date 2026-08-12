@@ -1,5 +1,5 @@
 # minecraft-world
 
-A Codex Skill that distills a photograph and rebuilds it as one expansive, atmospheric Minecraft-like game world. It preserves recognition and mood while rejecting pixel filters, voxel sculptures, toy-block models, photographic backgrounds, and product-shot staging.
+A Codex Skill that faithfully reconstructs a photograph as one Minecraft-like game world. It preserves recognizable composition, environment, palette, and mood while rebuilding geometry, textures, lighting, atmospheric depth, and block-cloud skies.
 
 Example: `Use $minecraft-world to reimagine this photo as a cinematic in-game world screenshot.`

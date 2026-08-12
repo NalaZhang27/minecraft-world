@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minecraft World"
+  short_description: "Rebuild photos as cinematic block worlds"
+  default_prompt: "Use $minecraft-world to reimagine this photo as a coherent cinematic game-world screenshot."
